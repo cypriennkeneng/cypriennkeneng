@@ -1,16 +1,249 @@
-## Hi there 👋
-
 <!--
-**cypriennkeneng/cypriennkeneng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Profile README for github.com/cypriennkeneng
+  Repo must be named exactly: cypriennkeneng/cypriennkeneng  (public)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  ONLY REMAINING PLACEHOLDER:
+    YOUR_SPOTIFY_ID → get it at spotify-github-profile.kittinanx.com,
+                      or delete the "Now Playing" section entirely.
 -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:189eff&height=190&section=header&text=Cyprien%20Nkeneng&fontSize=46&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Engineer%20·%20Shopware%20·%20Symfony%20·%20AI&descAlignY=52&descSize=17" width="100%" alt="banner" />
+
+**E-commerce, ERP and content systems — architected in PHP, wired together with clean APIs.**
+
+<br/>
+
+[![Website](https://img.shields.io/badge/Website-webloupe.de-189eff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://webloupe.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cyprien%20Nkeneng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprien-nkeneng-704434119/)
+[![Email](https://img.shields.io/badge/Email-info@webloupe.de-ea4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@webloupe.de)
+![Profile views](https://komarev.com/ghpvc/?username=cypriennkeneng&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 👋 About
+
+I build the systems that keep online businesses running — **Shopware 6 plugins**, **Symfony REST APIs**, **ERP integrations** that actually stay in sync, **CMS** setups editors don't fight with, and increasingly **AI** features that do real work instead of demos.
+
+Most of my projects live at the seams: shop ↔ ERP, CMS ↔ frontend, business logic ↔ LLM. That's where the interesting problems are.
+
+```yaml
+name:      Cyprien Nkeneng
+role:      Full-Stack Engineer  ·  webloupe.de
+core:      [ PHP, Symfony, Shopware 6 ]
+domains:   [ E-Commerce, ERP Integration, CMS, AI ]
+speaks:    REST · GraphQL · Webhooks · Message Queues
+languages: Deutsch · English · Français
+principle: "Boring architecture, interesting products."
+```
+
+---
+
+## 🧩 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Shopware
+Custom **Shopware 6** plugins, themes and apps — admin extensions (Vue), storefront work (Twig/SCSS), Store API endpoints, custom rules, flow actions and checkout logic. Multilingual by default, upgrade-safe, no core hacks.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Symfony & REST APIs
+**RESTful** backends in Symfony — versioned resources, proper status codes, OpenAPI specs, JWT/OAuth2, rate limiting and idempotency. Layered architecture, Messenger for async work, tests that mean something.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 ERP Integration
+Two-way sync between shop and **ERP** — products, stock, prices, orders, invoices, customers. Queue-backed, retry-safe, idempotent, with reconciliation jobs so nothing silently drifts.
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 CMS & Content
+**Headless and traditional CMS** — Shopware Shopping Experiences, structured content models, multilingual setups, and editor tooling non-developers can use without opening a ticket.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🤖 AI in Production
+LLM features wired into real business systems: product-description generation, semantic search over catalogs, RAG on internal documentation, support-ticket triage and data enrichment pipelines — with prompt versioning, caching and guardrails so cost and output stay predictable.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Core**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Shopware](https://img.shields.io/badge/Shopware%206-189EFF?style=flat-square&logo=shopware&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=flat-square&logo=doctrine&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-3AA33A?style=flat-square&logo=twig&logoColor=white)
+
+**APIs & Integration**
+
+![REST](https://img.shields.io/badge/REST-0F172A?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-0F172A?style=flat-square&logo=webhooks&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**JS / Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+
+**AI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**DevOps & Quality**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white)
+![PHPStan](https://img.shields.io/badge/PHPStan-5E88FC?style=flat-square&logo=php&logoColor=white)
+
+</div>
+
+---
+
+## 🔭 A Typical Integration
+
+```
+  Shopware 6                Integration Layer                ERP / AI
+ ┌────────────┐          ┌──────────────────────┐          ┌────────────┐
+ │ Storefront │          │  Symfony REST API    │          │  ERP       │
+ │ Admin (Vue)│ ◄──────► │  Messenger  ·  Queue │ ◄──────► │  Stock     │
+ │ Store API  │          │  Mappers · Retry     │          │  Orders    │
+ └────────────┘          │  Idempotency · Audit │          │  Invoices  │
+                         └──────────┬───────────┘          └────────────┘
+                                    │
+                              ┌─────▼──────┐
+                              │ AI Service │  enrichment · semantic search
+                              │ RAG · LLM  │  descriptions · ticket triage
+                              └────────────┘
+```
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/webloupe/WeloDeliveryInfo6">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=webloupe&repo=WeloDeliveryInfo6&theme=react&hide_border=true&bg_color=0d1117&title_color=189eff&icon_color=189eff" alt="WeloDeliveryInfo6" />
+</a>
+<a href="https://github.com/webloupe/WeloEanDetailPage">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=webloupe&repo=WeloEanDetailPage&theme=react&hide_border=true&bg_color=0d1117&title_color=189eff&icon_color=189eff" alt="WeloEanDetailPage" />
+</a>
+<a href="https://github.com/nkeneng/whatsapp-nextjs-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nkeneng&repo=whatsapp-nextjs-api&theme=react&hide_border=true&bg_color=0d1117&title_color=189eff&icon_color=189eff" alt="whatsapp-nextjs-api" />
+</a>
+
+</div>
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[WeloDeliveryInfo6](https://github.com/webloupe/WeloDeliveryInfo6)** | Shopware 6 plugin that shows delivery information on product detail pages — per-article overrides with plugin-level defaults, plus configurable tick color and font size. DE/EN/FR. | Shopware 6 · PHP · Twig |
+| **[WeloEanDetailPage](https://github.com/webloupe/WeloEanDetailPage)** | Shopware 6 plugin that surfaces EAN, manufacturer number and product dimensions on the detail page — feeding search engines the structured data they want. DE/EN/FR. | Shopware 6 · PHP · Twig |
+| **[whatsapp-nextjs-api](https://github.com/nkeneng/whatsapp-nextjs-api)** | REST API + dashboard for managing multiple WhatsApp sessions via Baileys — QR pairing, SSE live status, message sending, group listing and SQLite-backed session persistence. | Next.js · TypeScript · Prisma · Docker |
+
+> 🧩 Most of my Shopware plugin work lives under the **[@webloupe](https://github.com/webloupe)** organisation.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cypriennkeneng&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0d1117&title_color=189eff&icon_color=189eff" alt="stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=cypriennkeneng&theme=react&hide_border=true&background=0d1117&ring=189eff&fire=189eff&currStreakLabel=189eff" alt="streak" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypriennkeneng&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0d1117&title_color=189eff" alt="top languages" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cypriennkeneng&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" width="100%" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cypriennkeneng&theme=react-dark&hide_border=true&bg_color=0d1117&color=189eff&line=189eff&point=ffffff&area=true" alt="activity graph" width="100%" />
+
+</div>
+
+---
+
+## 🎧 Now Playing
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=189eff&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+</div>
+
+---
+
+## 🤝 Let's Talk
+
+Open to **Shopware plugin work, Symfony API projects, ERP integrations and AI features** — from a focused fix to a full build.
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/webloupe.de-0f172a?style=flat-square&logo=googlechrome&logoColor=white)](https://webloupe.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprien-nkeneng-704434119/)
+[![Email](https://img.shields.io/badge/info@webloupe.de-ea4335?style=flat-square&logo=maildotru&logoColor=white)](mailto:info@webloupe.de)
+
+<br/><br/>
+
+<sub>⭐️ If something here was useful, a star goes a long way.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:189eff,100:0f172a&height=110&section=footer" width="100%" alt="footer" />
+
+</div>

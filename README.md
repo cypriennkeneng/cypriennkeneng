@@ -172,6 +172,7 @@ Small, focused tools for my own workflow that I release as open source — like 
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[ERP Order Bridge](https://github.com/cypriennkeneng/erp-order-bridge)** | Symfony service that receives shop orders via HMAC-signed webhooks and exports them reliably to an ERP — idempotent intake, order and queue message in one transaction, bounded retries with Messenger, audit trail per order. PHPStan max, CI on PHP 8.3/8.4. | Symfony 7.4 · Messenger · Doctrine · PostgreSQL |
 | **[Depflush](https://github.com/cypriennkeneng/depflush)** | Free, open-source macOS app that frees disk space on developer Macs — Docker images and build cache, `vendor/` and `node_modules/` of dormant projects, SHA-256-verified duplicate SQL dumps, old JetBrains caches. Preview first, Trash by default. EN/DE/FR. | Swift · SwiftUI · macOS |
 | **[WeloDeliveryInfo6](https://github.com/webloupe/WeloDeliveryInfo6)** | Shopware 6 plugin that shows delivery information on product detail pages — per-article overrides with plugin-level defaults, plus configurable tick color and font size. DE/EN/FR. | Shopware 6 · PHP · Twig |
 | **[WeloEanDetailPage](https://github.com/webloupe/WeloEanDetailPage)** | Shopware 6 plugin that surfaces EAN, manufacturer number and product dimensions on the detail page — feeding search engines the structured data they want. DE/EN/FR. | Shopware 6 · PHP · Twig |
